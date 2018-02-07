@@ -1,4 +1,4 @@
-<H1> This is *README* for "MagicBall" </h1>
+<H1> This is README for "MagicBall" </h1>
 
 <H2>Инструкция</H2>
 
